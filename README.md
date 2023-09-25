@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Deep Learning, Natural Language Processing**
 
-- 👨‍💻 All of my projects are available at [https://github.com/analyticsSaurabh](https://github.com/analyticsSaurabh)
+- 👨‍💻 All of my projects are available at [https://github.com/analyticsSaurabh](https://github.com/SaurabhK264)
 
 - 📫 How to reach me **saurabhkumar243@gmail.com**
 
